@@ -1,5 +1,7 @@
 streamlit
-pandas
-pillow
 streamlit-autorefresh
+pandas
 numpy
+Pillow
+plotly
+requests
